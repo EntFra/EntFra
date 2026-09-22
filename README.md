@@ -1,10 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://images.ctfassets.net/k49d63tr8kcn/7KjVjYW8o6UIWGRgy5UihC/61d97dd0fbf1f17f975c6ac87bf6a758/snowflake-snowstorm_2x_1_.png)
 <h1 align="center">Hi 👋, I'm Ivan Prieto Rodriguez</h1>
 <h3 align="center">A Data Engineer from Spain, focused on cloud data platforms & data governance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entfra&label=Profile%20views&color=0e75b6&style=flat" alt="entfra" /> </p>
-
-<p align="left"> <a href="https://twitter.com/iprie" target="blank"><img src="https://img.shields.io/twitter/follow/iprie?logo=twitter&style=for-the-badge" alt="iprie" /></a> </p>
 
 - 🌱 I’m currently learning **Snowflake, DBT**
 
@@ -36,8 +34,3 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entfra&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="entfra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=entfra&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="entfra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entfra&theme=vision-friendly-dark&hide_border=true" alt="entfra" /></p>
